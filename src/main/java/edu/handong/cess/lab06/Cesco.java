@@ -1,6 +1,5 @@
 package edu.handong.cess.lab06;
 import java.util.Scanner;
-
 /**
  *<p>
  * This program show how many times take to bugs covering house
@@ -64,3 +63,4 @@ public class Cesco {
 	
 	}
 }
+
